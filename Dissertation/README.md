@@ -1,1 +1,1 @@
-# Detection App of Laptop Battery R
+# Detection App of Laptop Battery Rating Label drawing
