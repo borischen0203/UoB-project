@@ -1,0 +1,21 @@
+.addingFriend {
+	-fx-background-image: url("../images/addFriendImg_60x60.png"); 
+	-fx-background-color: "#00355e";
+}
+
+.leftBox {
+	-fx-background-color: #00355e;
+}
+
+.friendTag {
+	-fx-font-size: 20pt;
+	-fx-font-family: 'Courier';
+}
+
+.statusT {
+	-fx-fill: "lightgreen";
+}
+
+.statusF {
+	-fx-fill: "pink";
+}

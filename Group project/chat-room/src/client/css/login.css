@@ -1,0 +1,16 @@
+Label {
+	-fx-font-size: 15pt;
+	-fx-padding: 10 20 10 20;
+}
+
+Button {
+	-fx-font-size: 13pt;
+	-fx-text-fill: "skyBlue";
+	
+	-fx-border-insets: 105;
+}
+
+.login {
+	-fx-background-color: "lightGrey";
+	-fx-text-fill: "Black";
+}

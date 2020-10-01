@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.geometry.Insets?>
+
+<VBox id="body" xmlns:fx="http://javafx.com/fxml/1" stylesheets="@../css/login.css"  fx:controller="client.ClientController" alignment="CENTER">
+	<VBox alignment="CENTER">
+		<ImageView fitHeight="224.0" fitWidth="290.0">    
+		   <image>
+		      <Image url="@../images/uob_logo1.jpg"/>
+		   </image>
+		</ImageView>
+
+		<Label text="User ID"/>
+		<TextField fx:id="userID"  maxWidth="300.0"/>
+
+		<Label text="Password"/>
+		<PasswordField fx:id="password" maxWidth="300.0"/>
+
+           
+		<Button styleClass="login" text="Log in" onAction="#signIn"/>
+
+		<Button text="Create a new Account" onAction="#moveToNewaccount"/>
+
+		<Button text="Forget your password?" onAction="#forgetPassword"/>
+	</VBox>
+</VBox>

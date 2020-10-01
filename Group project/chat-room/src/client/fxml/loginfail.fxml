@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.geometry.Insets?>
+
+<VBox id="body" xmlns:fx="http://javafx.com/fxml/1" stylesheets="@../css/loginfail.css" fx:controller="client.ClientController" alignment="CENTER">
+	<Label text="Your login fails."/>
+	<!-- 
+		<Button fx:id="closeWindow" text="back to login"/>
+	 -->
+</VBox>

@@ -1,0 +1,72 @@
+.top {
+	-fx-font-size: 23pt;
+	-fx-pref-width: 450;
+	-fx-background-color: linear-gradient(to right, #00355e, #003541);
+}
+
+.friendName {
+	-fx-text-fill: white;
+}
+
+.keyword {
+	-fx-font-size: 9pt;
+}
+
+.talkHistory {
+	-fx-pref-width: 450;
+	-fx-pref-height: 420;
+	-fx-background-image: url("../images/background-chatroom.jpg");
+	-fx-padding: 0 17 20 0;
+}
+
+.friendBubbleSpeech, .clientBubbleSpeech {
+	-fx-font-size: 13pt; 
+	-fx-background-radius: 30px; 
+	-fx-effect: dropshadow(three-pass-box, rgb(0, 0, 0, 0.6), 5, 0.0, 0, 2);
+	-fx-padding: 5 10 5 10;
+}
+
+.bubble {
+	-fx-pref-width: 0.2;
+	-fx-pref-height: 0.2;
+	-fx-padding: 2 0 2 0;
+}
+
+.clientBubbleSpeech {
+	-fx-background-color: "lightgreen";
+}
+
+.friendBubbleSpeech {
+	-fx-background-color: "lightgray";
+}
+
+.bottom {
+	-fx-background-color: "grey";
+}
+
+.bottomHBox {
+	-fx-background-color: lightgray;
+}
+
+.emojiButton {
+	-fx-background-radius: 30px;
+	-fx-pref-width: 45px;
+	-fx-background-image: url('../images/thumbUp_48x27.png');
+}
+
+.messageButton {
+	-fx-pref-width: 45px;
+	-fx-background-image: url('../images/paperairplane_27x27.png');
+ 	-fx-background-repeat: no-repeat;
+  	-fx-background-position: center;
+  	-fx-background-radius: 30px;
+}
+
+.messageButton:hover {
+	-fx-background-color: "skyblue";
+}
+
+.chatText {
+	-fx-pref-width: 200;
+	-fx-pref-height: 100;
+}

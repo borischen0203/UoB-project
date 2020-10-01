@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox id="body" xmlns:fx="http://javafx.com/fxml/1" stylesheets="@../css/forgetting.css" fx:controller="client.ClientController" alignment="CENTER">
+	<VBox alignment="CENTER">
+
+		<Label text="user name"/>
+		<TextField fx:id="username" maxWidth="300.0"/>
+
+		<Label text="user e-mail"/>
+		<TextField fx:id="email" maxWidth="300.0"/>
+
+		<Button onAction="#sendPassword" text="get my password"/>
+		<Button onAction="#backToLogin" text="back to login"/>
+	</VBox>
+</VBox>

@@ -1,0 +1,9 @@
+Label {
+	-fx-font-size: 15pt;
+	-fx-padding: 10 20 10 20;
+}
+
+Button {
+	-fx-font-size: 13pt;
+	-fx-padding: 10 20 10 20;
+}
