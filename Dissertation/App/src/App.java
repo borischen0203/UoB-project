@@ -214,6 +214,7 @@ public class App extends Application {
             window.showAndWait();
         } catch (Exception e) {
             e.printStackTrace();
+            System.out.println();
         }
     }
 
