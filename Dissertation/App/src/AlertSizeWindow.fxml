@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="150.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="src.App">
+   <children>
+      <Button layoutX="75.0" layoutY="94.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#closeWindow" prefHeight="36.0" prefWidth="150.0" text="Close Window" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="20.0" layoutY="51.0" text="Maximum PNG file size: 5MB" textAlignment="CENTER" AnchorPane.bottomAnchor="75.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="51.0">
+         <font>
+            <Font size="18.5" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
