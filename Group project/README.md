@@ -1,6 +1,6 @@
 # Chat room
 
-This small team project aimed to make a chat room
+This is a small team project aimed to make a chat room
 
 The user should be able to:
 1. Login to the server using a username and password.
