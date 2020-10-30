@@ -1,4 +1,8 @@
-**Detection application of Label drawing**
+**Detection App of Laptop Battery Rating Label drawing**
+
+This project is aimed to develop an application of battery rating label detection, allowing engineers to rapidly detect layout and design.
+
+
 
 Instruction on how to run the app:
 
