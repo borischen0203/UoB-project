@@ -41,7 +41,6 @@ Result: This cell presents three different types which are excellent, good and p
 Similarity rate: It shows the match rate of the template.
 
 Note: This area displays incorrect text content of Label.
-![Image of step](https://i.imgur.com/EB9eaZZ.png)
 <p align="left">
     <img src="https://i.imgur.com/EB9eaZZ.png" alt="Sample"  width="602" height="142">
     <p align="left">
