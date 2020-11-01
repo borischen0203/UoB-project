@@ -1,6 +1,6 @@
 # University of Birmingham - Projects
 
-## Dissertation: 
+## Dissertation project: 
 Detection App of Laptop Battery Rating Label drawing
 
 
