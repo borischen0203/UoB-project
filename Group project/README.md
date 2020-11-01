@@ -19,7 +19,7 @@ thus a user can "scroll up" to find older messages even when recconecting to the
 machine.
 ```
 
-The rough function that the user should be able to:
+The rough functions that the users should be able to:
 1. Login to the server using a username and password.
 2. Create a new account.
 3. View the list of other users who are currently online.
