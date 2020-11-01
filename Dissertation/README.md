@@ -14,10 +14,18 @@ Step 1: Download [run.bat] and [DetectionApp.jar]
 Step 2: Double click run.bat file
 
 Step 3: Follow the Instruction to import an excel checklist and Label drawing with PNG format 
-![Image of step3](https://i.imgur.com/cx3dWfy.png)
+<p align="left">
+    <img src="https://i.imgur.com/cx3dWfy.png" alt="Sample"  width="519" height="328">
+    <p align="left">
+</p>
+
 
 Step 4: Push start Detection button after import the file, then you will see below display
-![Image of step4](https://i.imgur.com/9zyKefZ.png)
+<p align="left">
+    <img src="https://i.imgur.com/9zyKefZ.png" alt="Sample"  width="591" height="201">
+    <p align="left">
+</p>
+
 
 Step 5: Wait until the detection finished.
 
@@ -34,7 +42,14 @@ Similarity rate: It shows the match rate of the template.
 
 Note: This area displays incorrect text content of Label.
 ![Image of step](https://i.imgur.com/EB9eaZZ.png)
+<p align="left">
+    <img src="https://i.imgur.com/EB9eaZZ.png" alt="Sample"  width="602" height="142">
+    <p align="left">
+</p>
 
 ## Explanation for the checklist content in the second sheet
 In the second sheet which presented a picture that the user can quickly find the correct and incorrect area in different colours.
-![Image of step](https://i.imgur.com/9QzXhWA.png)
+<p align="left">
+    <img src="https://i.imgur.com/9QzXhWA.png" alt="Sample"  width="587" height="327">
+    <p align="left">
+</p>
