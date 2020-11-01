@@ -1,6 +1,6 @@
 
 # Java Workshop Team Project - Chat room
-
+```
 This is a group project of team Wadi Rum, part of the curriculum in the Computer Science MSc in the 
 University of Birmingham. Team Wadi Rum members: Yi-Ming Chen, Shinjo Sato, Zhengnan Sun, Saba 
 Akhlagh-Nejat and Ibiyemi Ogunyemi.
@@ -17,7 +17,7 @@ Every client connects to the server, which listens for new messages over TCP/IP.
 server take care of the processes running, each new message gets stored in the database for archiving, 
 thus a user can "scroll up" to find older messages even when recconecting to the service through another 
 machine.
-
+```
 
 The rough function that the user should be able to:
 1. Login to the server using a username and password.
