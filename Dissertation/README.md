@@ -1,7 +1,6 @@
 **Detection App of Laptop Battery Rating Label drawing**
 
-This project is aimed to develop an application of battery rating label detection, allowing engineers to rapidly detect layout and design.
-
+  The engineers wasted too time to check it by human review. Moreover, human review is not perfect that it could not guarantee 100% accurate. Even if the Label has a wrong alphabet, it may cause cost lost for the company. Therefore, using a tool to help detection is important—this project aimed to develop an application to detect the label drawing. With saving time, engineers can spend more time on product development.
 
 
 Instruction on how to run the app:
