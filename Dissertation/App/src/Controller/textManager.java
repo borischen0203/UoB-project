@@ -1,4 +1,4 @@
-package src;
+package src.Controller;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
@@ -16,6 +16,7 @@ import org.opencv.imgcodecs.Imgcodecs;
 
 import java.awt.image.BufferedImage;
 import net.sourceforge.tess4j.*;
+import src.Model.Standard;
 
 /**
  * This textManager class mainly handle character recognition. This class build

@@ -1,4 +1,4 @@
-package src;
+package src.Controller;
 
 import org.opencv.core.Core;
 import org.opencv.core.CvException;
@@ -10,6 +10,8 @@ import org.opencv.core.Scalar;
 import org.opencv.core.Size;
 import org.opencv.core.Core.MinMaxLocResult;
 import org.opencv.imgproc.Imgproc;
+
+import src.Model.Standard;
 
 /**
  * This Repechage class mainly resize the fail detection item and find the best

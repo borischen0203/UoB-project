@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClientController<chatserver>",
+            "request": "launch",
+            "mainClass": "client.ClientController",
+            "projectName": "chatserver"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PGJDBCMain<chatserver>",
+            "request": "launch",
+            "mainClass": "org.postgresql.util.PGJDBCMain",
+            "projectName": "chatserver"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ServerModel<chatserver>",
+            "request": "launch",
+            "mainClass": "server.ServerModel",
+            "projectName": "chatserver"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UserDao<chatserver>",
+            "request": "launch",
+            "mainClass": "server.UserDao",
+            "projectName": "chatserver"
+        }
+    ]
+}

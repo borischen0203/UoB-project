@@ -6,6 +6,9 @@ import org.junit.jupiter.api.BeforeEach;
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 
+import src.Controller.fileManager;
+import src.Model.Standard;
+
 /**
  * This class main to test the function requirement
  * 

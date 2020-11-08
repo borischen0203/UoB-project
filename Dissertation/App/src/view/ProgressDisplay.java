@@ -1,4 +1,4 @@
-package src;
+package src.view;
 
 import java.util.List;
 import javafx.application.Application;
@@ -14,6 +14,8 @@ import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
+import src.Controller.Matching;
+import src.Model.Standard;
 
 /**
  * 

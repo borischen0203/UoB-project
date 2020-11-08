@@ -1,4 +1,4 @@
-package src;
+package src.Controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -17,6 +17,8 @@ import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 
 import javafx.concurrent.Task;
+import src.Model.Standard;
+import src.view.App;
 
 /**
  * 

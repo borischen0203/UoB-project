@@ -1,4 +1,4 @@
-package src;
+package src.view;
 
 import java.io.File;
 import javafx.application.Application;
@@ -11,6 +11,7 @@ import javafx.scene.control.TextField;
 import javafx.stage.FileChooser;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
+import src.Controller.fileManager;
 
 /**
  * This is App class mainly control and display GUI, such as home scene, alert

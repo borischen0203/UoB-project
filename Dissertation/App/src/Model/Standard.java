@@ -1,4 +1,4 @@
-package src;
+package src.Model;
 
 import java.util.Arrays;
 import org.opencv.core.Mat;
