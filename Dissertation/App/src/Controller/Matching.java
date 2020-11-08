@@ -18,7 +18,7 @@ import org.opencv.imgproc.Imgproc;
 
 import javafx.concurrent.Task;
 import src.Model.Standard;
-import src.view.App;
+import src.View.App;
 
 /**
  * 
