@@ -52,3 +52,11 @@ In the second sheet which presented a picture that the user can quickly find the
     <img src="https://i.imgur.com/9QzXhWA.png" alt="Sample"  width="587" height="327">
     <p align="left">
 </p>
+
+
+## Tech stack
+- Java
+- OpenCV
+- Tesseract OCR
+- Tess4j
+- Apache POI
